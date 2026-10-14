@@ -1,2 +1,14 @@
-# aus-luxe-auto-store
-AUS Luxe Automotive Storefront
+# AUS Luxe — سجل المستودع
+
+## الغرض
+هذا المستودع يحمل اسم `aus-luxe-auto-store`. وفق جرد Render الحالي، خدمة المعاينة المنشورة باسم `aus-luxe-auto-store` مرتبطة بمستودع آخر هو [super-duper-octo-adventure](https://github.com/m5moshbk/super-duper-octo-adventure)، وليس بهذا المستودع.
+
+## القرار التنظيمي
+- المستودع الذي يحتوي واجهة المتجر الحالية هو [super-duper-octo-adventure](https://github.com/m5moshbk/super-duper-octo-adventure).
+- هذا المستودع يُعامل مؤقتًا كسجل/مرشح للتوحيد، وليس مصدر النشر الأساسي.
+- لم يُحذف أي مستودع؛ يجب مقارنة التاريخ والملفات والفروع وأي بيانات فريدة قبل قرار الأرشفة أو الحذف.
+
+## الخطوة المقترحة
+بعد التأكد من عدم وجود ملفات أو تاريخ أو إعدادات فريدة هنا، يمكن أرشفته لتقليل الالتباس. لا تُحذف البيانات قبل مراجعة نهائية.
+
+المالك: M5mOsH
